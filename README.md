@@ -17,3 +17,4 @@ Edit `~/.octaverc` and add `addpath(genpath("path/to/strptool/"));`.
 ---------------------------------
 From svc root directory run `./install.sh`
 
+Done. Now run `octave Demo_SVC.m` which should work.
