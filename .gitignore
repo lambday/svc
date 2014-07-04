@@ -1,0 +1,9 @@
+*.o
+*.dll
+*.mex
+*.mexa64
+*.mexglx
+*.bak
+*.*~
+*.exe
+*.jpg
