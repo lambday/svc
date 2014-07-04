@@ -1,4 +1,4 @@
-Support Vector Clustering (SVC) toolbox
+Support Vector Clustering Toolbox
 =======================================
 This SVC toolbox was written by Dr. Daewon Lee under supervision by Prof. Jaewook Lee. The toolbox is implemented by the Matlab and based on the statistical pattern recognition toolbox (stprtool) in parts of kernel computation and efficient QP solving. At first, you should add the stprtool in your Matlab path. Our SVC toolbox includes the complete graph (CG) based (original SVC), the proximity graph based, and also dynamical system based methods.
 
@@ -8,9 +8,7 @@ https://sites.google.com/site/daewonlee/research/svctoolbox
 
 Installation
 ==============================================================
-This version includes Statistical Pattern Recognition Toolbox (stprtool) Version 2.12, 12 within it downloaded from [here](http://cmp.felk.cvut.cz/cmp/software/stprtool/dwstprtool.html).
-
-Instructions for GNU Octave on GNU/Linux platform are:
+This version includes Statistical Pattern Recognition Toolbox (stprtool) Version 2.12, 12 within it downloaded from [here](http://cmp.felk.cvut.cz/cmp/software/stprtool/dwstprtool.html). Instructions for GNU Octave on GNU/Linux platform are:
 
 1. Add strptool to path:
 -----------------------
